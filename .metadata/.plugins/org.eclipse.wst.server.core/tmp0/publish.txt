@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Apr 18 14:51:19 IST 2024
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Ch.Venkatesh\\.m2\\repository\\org\\springframework\\spring-web\\5.3.20\\spring-web-5.3.20.jar=WEB-INF/lib/spring-web-5.3.20.jar
+org.eclipse.jst.j2ee.server\:SpringAnnotation=WEB-INF/lib/SpringAnnotation-0.0.1-SNAPSHOT.jar
